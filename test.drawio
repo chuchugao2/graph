@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T03:33:25.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="4wT7MdAiiKMe-J_dmXpQ" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T03:35:46.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="tj1Av8NiOl1KGFxD3Q-i" version="21.3.8" type="github">
   <diagram name="第 1 页" id="-28VQTXDqfuDYZ_im5ft">
     <mxGraphModel dx="1026" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J7rZFFFMci6jhTMXJYGZ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="260" y="860" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wTJd-Y5oXOGYDvmJ6Plj-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_02-128.png" parent="1" vertex="1">
           <mxGeometry x="200" y="396" width="70" height="70" as="geometry" />
         </mxCell>
@@ -58,6 +55,18 @@
         </mxCell>
         <mxCell id="S_lM90suo6QIgIaXcgRy-9" value="Financial Fraud Organization Structure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="130" y="610" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S_lM90suo6QIgIaXcgRy-10" value="leader" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="498.5" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_lM90suo6QIgIaXcgRy-11" value="workers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_lM90suo6QIgIaXcgRy-12" value="workers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S_lM90suo6QIgIaXcgRy-13" value="workers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
