@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T07:43:18.653Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="XBRRh3jENApAXDdTsep6" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T07:45:19.118Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="LnuggPpSGx23BSzem38Q" version="22.0.8" type="github">
   <diagram name="第 1 页" id="NxxLxvkonkIjWXoWg4iE">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
@@ -80,6 +80,18 @@
             <mxPoint x="170" y="295" as="sourcePoint" />
             <mxPoint x="131" y="295" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xcafSMvCiAunP4aGxiWd-47" value="Crimial" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcafSMvCiAunP4aGxiWd-48" value="Merchant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="235" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcafSMvCiAunP4aGxiWd-49" value="Bank" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="325" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcafSMvCiAunP4aGxiWd-50" value="Middleman Account(s)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="121" y="330" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
