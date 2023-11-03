@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T08:37:35.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="5zqVkFH5hmpPz3DkMFeM" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T08:44:14.239Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="d-cqyVg5umNsXF2pMToi" version="22.0.8" type="github">
   <diagram name="第 1 页" id="_23-UQRcNEqVHBs86rbC">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="z-h519-FT7M5sTP4B4l5-24" value="\(n_3\):&amp;nbsp; &amp;nbsp;send out span emails" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="203.63" y="280" width="154.25" height="6.67" as="geometry" />
+        </mxCell>
+        <mxCell id="z-h519-FT7M5sTP4B4l5-25" value="Data Transfer Rate: \(Mbps\)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="300" y="213" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
