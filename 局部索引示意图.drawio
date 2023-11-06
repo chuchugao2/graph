@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T08:47:35.580Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="uEFE8uw-ew0rbYbTJEh-" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T11:56:32.359Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="AEfuL3ceVVl4gLSJGDOS" version="22.0.8" type="github">
   <diagram name="第 1 页" id="GeAziNcz1VKDxudrLXhO">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="1026" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="oUVlDi35KUHVPUw1LIrI-19" value="$$v_1 \ match\ u_1$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="310" y="227" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oUVlDi35KUHVPUw1LIrI-20" value="$$Max(Star_{u_{2}})$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="oUVlDi35KUHVPUw1LIrI-20" value="$$MWStar({u_{2}})$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="472" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oUVlDi35KUHVPUw1LIrI-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" vertex="1">
@@ -85,7 +85,7 @@
         <mxCell id="oUVlDi35KUHVPUw1LIrI-31" value="$$IN \ \ v_1&#39;s\ neighbors$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="804" y="207.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oUVlDi35KUHVPUw1LIrI-32" value="$$Max(Star_{u_{3}})$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="oUVlDi35KUHVPUw1LIrI-32" value="$$MWStar({u_{3}})$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="472" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oUVlDi35KUHVPUw1LIrI-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;" parent="1" vertex="1">
