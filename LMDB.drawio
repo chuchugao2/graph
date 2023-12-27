@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T11:14:32.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="_W5UpgKo-NgLLLlCGQh2" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-27T11:23:02.076Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="f_61kuauXdc-1yaqYtkJ" version="22.1.12" type="github" pages="2">
   <diagram name="传统I/O操作" id="Xiq3m3Y3mkHX4G0rG7n5">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -74,9 +74,6 @@
         <mxCell id="Gz56esxzEVyw1T4Mj6TX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="740" y="130" width="130" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gz56esxzEVyw1T4Mj6TX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Gz56esxzEVyw1T4Mj6TX-7" target="Gz56esxzEVyw1T4Mj6TX-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Gz56esxzEVyw1T4Mj6TX-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/general/Media_File.svg;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="763.75" y="260" width="32.5" height="40" as="geometry" />
         </mxCell>
@@ -88,14 +85,6 @@
         </mxCell>
         <mxCell id="Gz56esxzEVyw1T4Mj6TX-11" value="文件系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="757.94" y="200" width="74" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Gz56esxzEVyw1T4Mj6TX-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Gz56esxzEVyw1T4Mj6TX-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Gz56esxzEVyw1T4Mj6TX-14" value="用户空间程序执行mmap()系统调用" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="730" y="360" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Gz56esxzEVyw1T4Mj6TX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="Gz56esxzEVyw1T4Mj6TX-18" target="Gz56esxzEVyw1T4Mj6TX-27">
           <mxGeometry relative="1" as="geometry" />
@@ -159,6 +148,21 @@
         </mxCell>
         <mxCell id="Gz56esxzEVyw1T4Mj6TX-42" value="异步写入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="520" y="220" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="U4sQMxQXtjJeC7F3lAA--1" value="① 读文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U4sQMxQXtjJeC7F3lAA--2" value="②" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U4sQMxQXtjJeC7F3lAA--3" value="③ 页面错误" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="430" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U4sQMxQXtjJeC7F3lAA--4" value="④ os将文件相应部分从磁盘读取到物理内存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U4sQMxQXtjJeC7F3lAA--5" value="映射关系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
