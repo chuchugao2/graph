@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T15:47:31.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="WUWcTKcyZdik1YcczQvw" version="22.1.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-27T16:00:24.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="kahkB1MP9-URCzGAe8yp" version="22.1.13" type="github" pages="2">
   <diagram name="amazon" id="fCA8_PMctPCgwvYJMUSU">
     <mxGraphModel dx="1018" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
@@ -57,13 +57,13 @@
         <mxCell id="4uzGM3PrpXfJE0PrAdxS-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1077" y="214" width="387" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="G5ethoWTUnm4vw-1Fgpj-16" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;$$u_1$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="G5ethoWTUnm4vw-1Fgpj-16" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;$$u_3$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="790" y="339.38" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G5ethoWTUnm4vw-1Fgpj-17" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;$$u_2$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="G5ethoWTUnm4vw-1Fgpj-17" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;$$u_1$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="785" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G5ethoWTUnm4vw-1Fgpj-18" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;$$u_3$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="G5ethoWTUnm4vw-1Fgpj-18" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;$$u_2$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="566" y="199" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G5ethoWTUnm4vw-1Fgpj-19" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;$$u_4$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
@@ -125,6 +125,15 @@
         </mxCell>
         <mxCell id="4uzGM3PrpXfJE0PrAdxS-30" value="&lt;font style=&quot;font-size: 35px;&quot; face=&quot;Times New Roman&quot;&gt;$$Q_1$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="4uzGM3PrpXfJE0PrAdxS-31">
           <mxGeometry x="201" y="1" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4uzGM3PrpXfJE0PrAdxS-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1100" y="170" width="246" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4uzGM3PrpXfJE0PrAdxS-41" value="$$\{u_1,u_2,u_3,u_4\}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="4uzGM3PrpXfJE0PrAdxS-40">
+          <mxGeometry x="116" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4uzGM3PrpXfJE0PrAdxS-42" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;matching order:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4uzGM3PrpXfJE0PrAdxS-40">
+          <mxGeometry y="5" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
