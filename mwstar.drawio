@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T12:31:53.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="xU-Tx3bvWDuu7qVne6HI" version="24.0.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-15T12:33:03.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="lVky_AK_rSoFUnsb5tjn" version="24.0.5" type="github" pages="6">
   <diagram name="第 1 页" id="k_kBE_znsccp0YxZL7Jc">
     <mxGraphModel dx="1426" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="1" shadow="0">
       <root>
@@ -1042,12 +1042,6 @@
         <mxCell id="NTFQ-HX6kZUzaQjyGMtp-93" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="NTFQ-HX6kZUzaQjyGMtp-92" target="NTFQ-HX6kZUzaQjyGMtp-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NTFQ-HX6kZUzaQjyGMtp-94" value="$$\{u_1,u_2,u_3,u_4\}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="938.28" y="406" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NTFQ-HX6kZUzaQjyGMtp-95" value="&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;Matching order:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="423" width="267" height="3" as="geometry" />
-        </mxCell>
         <mxCell id="NTFQ-HX6kZUzaQjyGMtp-121" value="$$u_1$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="775" y="103" width="60" height="30" as="geometry" />
         </mxCell>
@@ -1143,6 +1137,15 @@
         </mxCell>
         <mxCell id="NTFQ-HX6kZUzaQjyGMtp-120" value="&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;$$G_t$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="tA-zQQjkrKH6zJMHRzOl-4">
           <mxGeometry x="159" y="14" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tA-zQQjkrKH6zJMHRzOl-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="635" y="406" width="396" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NTFQ-HX6kZUzaQjyGMtp-94" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;$$\{u_1,u_2,u_3,u_4\}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;" vertex="1" parent="tA-zQQjkrKH6zJMHRzOl-7">
+          <mxGeometry x="266" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NTFQ-HX6kZUzaQjyGMtp-95" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Matching order:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tA-zQQjkrKH6zJMHRzOl-7">
+          <mxGeometry y="16.5" width="267" height="3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
