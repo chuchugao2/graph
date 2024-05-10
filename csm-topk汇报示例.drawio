@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T08:49:25.758Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="0w9g1rLMJQzjR6fByCvY" version="24.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-10T08:51:03.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="wRpZSNgwkM9lV72No5M0" version="24.3.0" type="github" pages="2">
   <diagram name="第 1 页" id="W__i5SvG5m0rLPJonbVb">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -453,7 +453,7 @@
           <mxGeometry x="275" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T5g-QQoGN-u7SYxJfP8G-16" value="Top k result(k=3)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="220" y="160" width="150" height="20" as="geometry" />
+          <mxGeometry x="250" y="160" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T5g-QQoGN-u7SYxJfP8G-17" value="op = insertion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="85" y="90" width="345" height="40" as="geometry" />
@@ -477,16 +477,16 @@
           <mxGeometry x="505" y="340" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T5g-QQoGN-u7SYxJfP8G-29" value="den(`g_0`)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="670" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="670" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T5g-QQoGN-u7SYxJfP8G-30" value="den(`g_2`)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="670" y="260" width="80" height="30" as="geometry" />
+          <mxGeometry x="670" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T5g-QQoGN-u7SYxJfP8G-31" value="den(`g_1`)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="775" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T5g-QQoGN-u7SYxJfP8G-32" value="Top k result(k=3)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="622.5" y="165" width="155" height="10" as="geometry" />
+          <mxGeometry x="630" y="165" width="155" height="10" as="geometry" />
         </mxCell>
         <mxCell id="T5g-QQoGN-u7SYxJfP8G-33" value="den(`g_n`)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="550" y="284" width="80" height="30" as="geometry" />
