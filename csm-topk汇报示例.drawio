@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T22:06:44.984Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="YRfXdBo_0l-i15wIsiQZ" version="24.4.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-15T22:35:25.022Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="9unYFsZWyPO7zNzwKznO" version="24.4.2" type="github" pages="10">
   <diagram name="第 1 页" id="W__i5SvG5m0rLPJonbVb">
     <mxGraphModel dx="1273" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1728,12 +1728,12 @@
           <mxGeometry x="805.221892557288" y="524.516129032258" width="35.483870967741936" height="35.483870967741936" as="geometry" />
         </mxCell>
         <mxCell id="TVbYlfVFzzje1y2L6OE_-43" value="$$v_{1}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1087.598005176441" y="340" width="51.133135534372805" height="21.290322580645164" as="geometry" />
+          <mxGeometry x="789.5680051764409" y="340" width="51.133135534372805" height="21.290322580645164" as="geometry" />
         </mxCell>
         <mxCell id="TVbYlfVFzzje1y2L6OE_-44" value="$$v_{5}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;container=0;" parent="1" vertex="1">
           <mxGeometry x="929.066346821539" y="531.6129032258065" width="51.133135534372805" height="21.290322580645164" as="geometry" />
         </mxCell>
-        <mxCell id="nzclo3kc2JLHM24-IgDg-19" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;(c) Mwstar index in `Q`&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="nzclo3kc2JLHM24-IgDg-19" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;(d) Mwstar index in `Q`&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1553.6729411764707" y="634.7937743190662" width="398.93705882352947" height="11.20622568093385" as="geometry" />
         </mxCell>
         <mxCell id="nzclo3kc2JLHM24-IgDg-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" edge="1">
@@ -1796,7 +1796,7 @@
         <mxCell id="nzclo3kc2JLHM24-IgDg-18" value="$$Q_{star}(4)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Times New Roman;fontColor=default;container=0;" parent="1" vertex="1">
           <mxGeometry x="1803.1226130653267" y="563.3681395348838" width="69.7386934673367" height="32.20186046511628" as="geometry" />
         </mxCell>
-        <mxCell id="nzclo3kc2JLHM24-IgDg-23" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;(d) Mwstar index in&amp;nbsp;`G_t`&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="nzclo3kc2JLHM24-IgDg-23" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;(c) Mwstar index in&amp;nbsp;`G_t`&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1070.0021581415274" y="627.9968482490272" width="401.5878418584727" height="11.673151750972762" as="geometry" />
         </mxCell>
         <mxCell id="nzclo3kc2JLHM24-IgDg-21" value="$$D_{star}(g,3)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Times New Roman;fontColor=default;" parent="1" vertex="1">
