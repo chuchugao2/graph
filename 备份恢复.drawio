@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T11:22:27.997Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="XtKK5bkAfnb7keMB_jPL" version="24.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-25T11:30:42.565Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="vC6beOUapa4j7XecdyxC" version="24.6.2" type="github" pages="2">
   <diagram id="cgerrBWcWN0U7qCn1U9X" name="全量数据恢复">
     <mxGraphModel dx="868" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="E1LzLB58Bc_VcVezpDnH-28" value="磁盘" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="620" y="210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E1LzLB58Bc_VcVezpDnH-29" value="4. 拉sst" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="E1LzLB58Bc_VcVezpDnH-29" value="5. 拉sst" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="562" y="203" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E1LzLB58Bc_VcVezpDnH-31" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="E1LzLB58Bc_VcVezpDnH-24" target="E1LzLB58Bc_VcVezpDnH-1">
@@ -97,7 +97,7 @@
         <mxCell id="E1LzLB58Bc_VcVezpDnH-32" value="...." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="495" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E1LzLB58Bc_VcVezpDnH-33" value="5.上报全量恢复子任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="E1LzLB58Bc_VcVezpDnH-33" value="6.上报全量恢复子任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="370" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E1LzLB58Bc_VcVezpDnH-34" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" edge="1" parent="1" source="E1LzLB58Bc_VcVezpDnH-4" target="E1LzLB58Bc_VcVezpDnH-1">
@@ -112,10 +112,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E1LzLB58Bc_VcVezpDnH-35" value="6.恢复region rpc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="E1LzLB58Bc_VcVezpDnH-35" value="9.恢复region rpc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="70" y="155" width="90" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="E1LzLB58Bc_VcVezpDnH-37" value="6. 创建region" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="E1LzLB58Bc_VcVezpDnH-37" value="7. 创建region" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="350" y="233" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E1LzLB58Bc_VcVezpDnH-38" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.847;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.816;exitY=-0.049;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="E1LzLB58Bc_VcVezpDnH-3" target="E1LzLB58Bc_VcVezpDnH-1">
@@ -124,11 +124,14 @@
             <mxPoint x="590" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E1LzLB58Bc_VcVezpDnH-39" value="7.ok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="E1LzLB58Bc_VcVezpDnH-39" value="8.ok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E1LzLB58Bc_VcVezpDnH-41" value="7. 发end region rpc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="100" height="5" as="geometry" />
+        <mxCell id="E1LzLB58Bc_VcVezpDnH-41" value="10. 发end region rpc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="100" y="185" width="110" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="E1LzLB58Bc_VcVezpDnH-42" value="4.下发全量恢复子任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
