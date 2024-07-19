@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T11:31:40.148Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="rFG8NPqFUsbBq4o8GhN-" version="24.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-19T02:19:02.148Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="w8pwCjJJ2S9JMMqAIo6z" version="24.6.2" type="github" pages="3">
   <diagram id="cgerrBWcWN0U7qCn1U9X" name="全量数据恢复">
     <mxGraphModel dx="868" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -200,6 +200,107 @@
         </mxCell>
         <mxCell id="2Wk4m85PZB2ywU-8OkXy-23" value="回放终止?" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lH_BIVP7HJymobF0ibC-" name="第 3 页">
+    <mxGraphModel dx="1426" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rNX7JBU6M6TCHp1lTku6-1" target="rNX7JBU6M6TCHp1lTku6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-1" value="TDBR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-4" value="TDStore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548" y="229.5" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-6" value="SQLengine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="229.5" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-9" value="agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="229.5" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-17" value="mc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="143" width="70" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-18" value="mc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="225" width="70" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-19" value="mc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="307" width="70" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-20" value="mc-agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="143" width="70" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-21" value="mc-agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="225.5" width="70" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-22" value="mc-agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="307" width="70" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-24" value="其中一个mc拉起tdbr" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="307" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-30" value="TDStore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548" y="316.5" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-31" value="SQLengine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="316.5" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-32" value="agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="316.5" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="143" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-34" value="TDStore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548" y="152.5" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-35" value="SQLengine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="152.5" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-36" value="agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="152.5" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-37" value="&lt;font color=&quot;#ff0000&quot;&gt;HypherNode&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="156.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="224.5" y="414" as="sourcePoint" />
+            <mxPoint x="224.5" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="307.5" y="416" as="sourcePoint" />
+            <mxPoint x="307.5" y="376" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="411.5" y="415" as="sourcePoint" />
+            <mxPoint x="411.5" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="417" as="sourcePoint" />
+            <mxPoint x="540" y="377" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNX7JBU6M6TCHp1lTku6-42" value="四个进程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322" y="430" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
