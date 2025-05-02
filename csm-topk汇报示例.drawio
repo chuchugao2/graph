@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-10-23T08:12:00.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" etag="3cVNPg__6LrUtAi1HVVg" version="24.6.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.2.14" pages="10">
   <diagram name="第 1 页" id="W__i5SvG5m0rLPJonbVb">
     <mxGraphModel dx="1273" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -439,7 +439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qxBl8hf84x6tJM0LOKXn" name="CSM framwork">
-    <mxGraphModel dx="1018" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1010" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -455,10 +455,10 @@
         <mxCell id="T5g-QQoGN-u7SYxJfP8G-16" value="Top k result(k=3)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="250" y="160" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T5g-QQoGN-u7SYxJfP8G-17" value="op = insertion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="T5g-QQoGN-u7SYxJfP8G-17" value="op = insertion(+)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="85" y="90" width="345" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T5g-QQoGN-u7SYxJfP8G-18" value="op = deletion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="T5g-QQoGN-u7SYxJfP8G-18" value="op = deletion(-)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="530" y="88" width="340" height="42" as="geometry" />
         </mxCell>
         <mxCell id="T5g-QQoGN-u7SYxJfP8G-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;nbsp;C&lt;font style=&quot;font-size: 20px;&quot;&gt;omute&lt;/font&gt;&lt;/font&gt; newly ranked top k matches&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
@@ -2153,7 +2153,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Rs3D4LOX-GL8qNDMPTfS" name="update stream">
-    <mxGraphModel dx="1018" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="1" shadow="0">
+    <mxGraphModel dx="1773" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
