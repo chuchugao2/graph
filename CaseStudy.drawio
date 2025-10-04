@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T07:47:40.331Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="tMBxhltkzCI2v5fxh6ov" version="22.1.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.2.5" pages="4">
   <diagram name="amazon" id="fCA8_PMctPCgwvYJMUSU">
     <mxGraphModel dx="1018" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
@@ -181,6 +181,83 @@
         </mxCell>
         <mxCell id="0wAfVYqg-fL8ONtgHU4e-14" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;Peptidases&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="749" y="102.5" width="165" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JxfXUYEuDJk2ODCtgL4O" name="缓存流程图">
+    <mxGraphModel dx="1226" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="R-gKzOwa9NxZkUDtTW-k-1" target="R-gKzOwa9NxZkUDtTW-k-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R-gKzOwa9NxZkUDtTW-k-6" target="R-gKzOwa9NxZkUDtTW-k-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-6" value="查新缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="210" y="242.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R-gKzOwa9NxZkUDtTW-k-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R-gKzOwa9NxZkUDtTW-k-16">
+          <mxGeometry x="0.1714" y="-1" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R-gKzOwa9NxZkUDtTW-k-12" target="R-gKzOwa9NxZkUDtTW-k-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-24" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R-gKzOwa9NxZkUDtTW-k-20">
+          <mxGeometry x="-0.3333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-12" value="命中新缓存" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-18" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R-gKzOwa9NxZkUDtTW-k-19" target="R-gKzOwa9NxZkUDtTW-k-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-19" value="查旧缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="425" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R-gKzOwa9NxZkUDtTW-k-21" target="R-gKzOwa9NxZkUDtTW-k-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-25" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R-gKzOwa9NxZkUDtTW-k-23">
+          <mxGeometry x="-0.7306" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R-gKzOwa9NxZkUDtTW-k-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-27" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R-gKzOwa9NxZkUDtTW-k-26">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-21" value="命中旧缓存" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="510" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-28" value="查kv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gKzOwa9NxZkUDtTW-k-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R-gKzOwa9NxZkUDtTW-k-28" target="R-gKzOwa9NxZkUDtTW-k-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
